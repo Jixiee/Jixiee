@@ -1,6 +1,7 @@
+
 # Hey there, fellow coder! 👋
 
-Welcome to my GitHub profile! I'm Jixiee, a passionate developer and explorer of all things tech. Feel free to take a look around and explore the projects I've been working on. From coding experiments to Detailed notes, you'll find a variety of interesting stuff here.
+Welcome to my GitHub profile! I'm Jixiee, a passionate developer and explorer of all things tech. Feel free to take a look around and explore the projects I've been working on. From coding experiments to detailed notes, you'll find a variety of interesting stuff here.
 
 ## 🚀 Quick Intro
 
@@ -11,13 +12,17 @@ Welcome to my GitHub profile! I'm Jixiee, a passionate developer and explorer of
 ## 🔥 Featured Projects
 
 ### [BrainSherlock](https://github.com/Jixiee/brainsherlock-jixiee)
-BrainSherlock is a Streamlit app designed to help analyze mental health using various techniques. It takes advantage of text analysis, behavioral pattern analysis, Facial analysis and speech analysis to provide insights into the mental well-being of individuals. The app provides an interactive and user-friendly interface for users to input their data and receive meaningful insights.
+BrainSherlock is a Streamlit app designed to help analyze mental health using various techniques. It takes advantage of text analysis, behavioral pattern analysis, facial analysis, and speech analysis to provide insights into the mental well-being of individuals. The app provides an interactive and user-friendly interface for users to input their data and receive meaningful insights.
+
+## 📊 GitHub Stats
+
+![Jixiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jixiee&show_icons=true&theme=gruvbox)
 
 ## 🌐 Connect with Me
 
 Let's connect and collaborate! Feel free to reach out to me on different platforms:
 
-- 📧 Email: (write2jigs24@gmail.com)
+- 📧 Email: [write2jigs24@gmail.com](mailto:write2jigs24@gmail.com)
 - 🐦 Twitter: [@JigyasaTweets_](https://twitter.com/JigyasaTweets_)
 - 💼 LinkedIn: [Jigyasa Jha](https://www.linkedin.com/in/Jigyasa-Jha/)
 
@@ -28,3 +33,9 @@ I'm always excited to collaborate on interesting projects. If you have an idea, 
 ## 🎉 Thanks for Visiting
 
 Thanks for dropping by! Don't forget to star your favorite repositories and let's stay connected. Together, we can push the boundaries of technology. Happy coding!
+
+<!-- Add a Footer with Visitor Count Badge -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jixiee" alt="Visitor Count">
+</p>
+
