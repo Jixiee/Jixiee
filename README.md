@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm [Jixiee], a passionate developer and explorer 
 
 ## 🔥 Featured Projects
 
-### [BrainSherlock](link-to-project-1)
-A brief description of your project and what makes it unique. Feel free to add a screenshot or GIF to showcase its functionality.
+### [BrainSherlock](https://github.com/Jixiee/brainsherlock-jixiee)
+BrainSherlock is a Streamlit app designed to help analyze mental health using various techniques. It takes advantage of text analysis, behavioral pattern analysis, Facial analysis and speech analysis to provide insights into the mental well-being of individuals. The app provides an interactive and user-friendly interface for users to input their data and receive meaningful insights.
 
 ## 🌐 Connect with Me
 
