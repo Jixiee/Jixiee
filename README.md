@@ -1,6 +1,6 @@
 # Hey there, fellow coder! 👋
 
-Welcome to my GitHub profile! I'm [Jixiee], a passionate developer and explorer of all things tech. Feel free to take a look around and explore the projects I've been working on. From coding experiments to Detailed notes, you'll find a variety of interesting stuff here.
+Welcome to my GitHub profile! I'm Jixiee, a passionate developer and explorer of all things tech. Feel free to take a look around and explore the projects I've been working on. From coding experiments to Detailed notes, you'll find a variety of interesting stuff here.
 
 ## 🚀 Quick Intro
 
