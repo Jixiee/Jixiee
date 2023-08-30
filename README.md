@@ -19,7 +19,6 @@ BrainSherlock is a Streamlit app designed to help analyze mental health using va
 ![Jixiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jixiee&show_icons=true&theme=gruvbox)
 
 ## 🌐 Connect with Me
-
 Let's connect and collaborate! Feel free to reach out to me on different platforms:
 
 - 📧 Email: [write2jigs24@gmail.com](mailto:write2jigs24@gmail.com)
