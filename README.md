@@ -35,6 +35,6 @@ Thanks for dropping by! Don't forget to star your favorite repositories and let'
 
 <!-- Add a Footer with Visitor Count Badge -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jixiee" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=Jixiee" alt="Visitor Count">
 </p>
 
