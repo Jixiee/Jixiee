@@ -33,7 +33,6 @@ I'm always excited to collaborate on interesting projects. If you have an idea, 
 
 Thanks for dropping by! Don't forget to star your favorite repositories and let's stay connected. Together, we can push the boundaries of technology. Happy coding!
 
-<!-- Add a Footer with Visitor Count Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jixiee" alt="Visitor Count">
 </p>
