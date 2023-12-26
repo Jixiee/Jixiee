@@ -3,7 +3,6 @@
 
 Welcome to my GitHub profile! I'm Jixiee, a passionate developer and explorer of all things tech. Feel free to take a look around and explore the projects I've been working on. From coding experiments to detailed notes, you'll find a variety of interesting stuff here.
 <img align="right" width="400" src="https://github.com/Jixiee/Jixiee/blob/main/1734567897542345678.png">
-<!--<img align="right" width="400" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
 
 ## 🚀 Quick Intro
 
